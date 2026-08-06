@@ -100,7 +100,7 @@ class Staff {
 
 List<Staff> staffList = [
   Staff(
-    name: "นายธามฟันเหยินดาวเขี้ยว",
+    name: "นายธามฟันเหยินดาบเขี้ยว",
     position: "เจ้าของร้านสุดลาบ",
     image: "assets/images/8.png",
   ),
@@ -110,7 +110,7 @@ List<Staff> staffList = [
     image: "assets/images/9.png",
   ),
   Staff(
-    name: "กิค hub",
+    name: "กิต hub",
     position: "คู่แข่งเว้ปหนังดัง",
     image: "assets/images/10.png",
   ),
